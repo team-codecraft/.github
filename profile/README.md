@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-이곳을 코드크래프트의 땀과 노력이 깃든 신성한 코드 저장소입니다.
+이곳은 코드크래프트의 땀과 노력이 깃든 신성한 코드 저장소입니다.
 
 신성한 곳을 방문할때의 규칙은 아래와같습니다. 
 
